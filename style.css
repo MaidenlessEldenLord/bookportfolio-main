@@ -81,7 +81,7 @@ ul{
 }
 
 .page ::before {
-    background-image: none; /* this will remove this background image */
+    background-image: none; /* This will remove this background image. You can reuse the page class now for any more pages in your book. */
 }
 
 .page > li {
